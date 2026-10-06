@@ -1,0 +1,6 @@
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E9", "F"]   # syntax errors + pyflakes (tighten later: B, I)

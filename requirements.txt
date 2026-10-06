@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+httpx>=0.27
+openai>=1.50
+matplotlib>=3.8
+cryptography>=43
